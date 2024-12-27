@@ -5,12 +5,8 @@
 
 auth.json
 
-/tests/
-
 ### Composer, https://getcomposer.org/doc/01-basic-usage.md#commit-your-composer-lock-file-to-version-control
 composer.phar
-composer.lock
-/vendor/
 
 ### Node.js
 node_modules/
