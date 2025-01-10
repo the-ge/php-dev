@@ -11,10 +11,10 @@
  * @license   https://www.apache.org/licenses/LICENSE-2.0 Apache License version 2.0
  */
 
-namespace TheGe\XtraTesting;
+namespace TheGe\DevTesting;
 
 use Stringable;
-use TheGe\Xtra\String\StringableObjectMethods;
+use TheGe\Dev\String\StringableObjectMethods;
 
 
 abstract class AbstractStringableObject implements Stringable

@@ -1,6 +1,6 @@
 {
   "type": "library",
-  "name": "the-ge/php-xtra",
+  "name": "the-ge/php-dev",
   "description": "PHP helpers",
   "authors": [
     {
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "TheGe\\Xtra\\": "src/"
+      "TheGe\\Dev\\": "src/"
     }
   },
   "require-dev": {

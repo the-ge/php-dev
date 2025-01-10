@@ -2,10 +2,15 @@
 .env
 .env.backup
 .env.production
+config*.xml
 
 auth.json
 
+/tests/
+
 ### Composer, https://getcomposer.org/doc/01-basic-usage.md#commit-your-composer-lock-file-to-version-control
+/vendor/
+composer.lock
 composer.phar
 
 ### Node.js

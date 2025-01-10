@@ -11,7 +11,7 @@
  * @license   https://www.apache.org/licenses/LICENSE-2.0 Apache License version 2.0
  */
 
-namespace TheGe\Xtra\String;
+namespace TheGe\Dev\String;
 
 
 final class CaseAid
